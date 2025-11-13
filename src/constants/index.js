@@ -7,6 +7,7 @@ const navLinks = [
     { label: "Vision" },
 ];
 
+// No Change parts - Array of objects which not to apply the color
 const noChangeParts = [
     "Object_84",
     "Object_37",
@@ -128,6 +129,9 @@ const footerLinks = [
     { label: "Site Map", link: "#" },
 ];
 
+
+
+// Export all in once place
 export {
     features,
     featureSequence,

@@ -140,7 +140,7 @@ body {
     }
   }
 
-  #product-viewer {
+  #productViewer {
     @apply container relative min-h-[93vh] mx-auto px-5 2xl:px-0 mt-40;
 
     h2 {
