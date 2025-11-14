@@ -8,6 +8,7 @@ export default function MacbookModel(props) {
     const { color, texture, } = useAppleStore();
   const { nodes, materials, scene} = useGLTF('/models/macbook-transformed.glb')
 
+  // Add support for the video texture
     const screen = useVideoTexture(texture)
 
     useEffect(() => {
