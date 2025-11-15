@@ -89,7 +89,11 @@ const ModelScroll = () => {
 const Features = () => {
     return (
         <section id="features">
+<<<<<<< HEAD
             <h2>See it all in a new light.</h2>
+=======
+            <h2>See Every Color, Every Shadow, Every Pixel</h2>
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
 
             <Canvas id="f-canvas" camera={{}}>
                 <StudioLights />
@@ -98,6 +102,10 @@ const Features = () => {
             </Canvas>
 
             <div className="absolute inset-0">
+<<<<<<< HEAD
+=======
+                {/* Map over feature text and for each render icon and text */}
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
                 {features.map((feature, index) => (
                     <div key={feature.id} className={clsx('box', `box${index + 1}`, feature.styles)}>
                         <img src={feature.icon} alt={feature.highlight} />

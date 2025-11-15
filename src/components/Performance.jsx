@@ -89,6 +89,7 @@ const Performance = () => {
 
             <div className="content">
                 <p>
+<<<<<<< HEAD
                     Run graphics-intensive workflows with a responsiveness that keeps up
                     with your imagination. The M4 family of chips features a GPU with a
                     second-generation hardware-accelerated ray tracing engine that renders
@@ -99,6 +100,13 @@ const Performance = () => {
                     And Dynamic Caching optimizes fast on-chip memory to dramatically
                     increase average GPU utilization — driving a huge performance boost
                     for the most demanding pro apps and games.
+=======
+                    Take your creativity and gaming to the next level with unparalleled responsiveness. The M4 family of chips features a GPU with a second-generation hardware-accelerated ray tracing engine, rendering complex images faster than ever before.{" "}
+                    <span className="text-white">
+            Gaming and graphics workflows feel immersive, fluid, and lifelike.
+          </span>{" "}
+                    Dynamic Caching further optimizes on-chip memory to maximize GPU utilization, delivering a dramatic performance boost for the most demanding professional apps and next-gen games. Experience visuals and speed that keep up with your imagination.
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
                 </p>
             </div>
         </section>

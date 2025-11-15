@@ -10,7 +10,11 @@ const Hero = () => {
   return (
     <section id="hero">
         <div>
+<<<<<<< HEAD
           <h1>MacBook Pro</h1>
+=======
+          <h1>MacBook Presentation.</h1>
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
           <img src="/title.png" alt="Hero Product Title" />
         </div>
 
@@ -19,7 +23,12 @@ const Hero = () => {
 
         {/* Product Description */}
         <button>Buy</button>
+<<<<<<< HEAD
         <p>Last price From $1999 or $149/mo for 12 months</p>
+=======
+        <button>Add to cart</button>
+        <p className="text-sm text-gray-400">Last chance to own this premium product — starting at $1,999, or just $149/month for 12 months.</p>
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
     </section>
   )
 }

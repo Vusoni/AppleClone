@@ -52,6 +52,7 @@ const Showcase = () => {
                             <p>
                                 Introducing {" "}
                                 <span className="text-white">
+<<<<<<< HEAD
                                     M4, the next generation of Apple silicon
                                 </span>
                                 . M4 powers
@@ -61,6 +62,17 @@ const Showcase = () => {
                             </p>
                             <p>
                                 A brand-new display engine delivers breathtaking precision, color accuracy, and brightness. And a next-gen GPU with hardware-accelerated ray tracing brings console-level graphics to your fingertips.
+=======
+                                    M4, the next generation of Apple.
+                                </span>
+                                          Engineered to deliver unparalleled speed and efficiency.
+                            </p>
+                            <p>
+                                M4 drives Apple Intelligence on iPad Pro, empowering you to write, create, and accomplish more than ever before. All within a design that’s astonishingly thin, lightweight, and powerful.
+                            </p>
+                            <p>
+                                Experience a brand-new display engine that delivers breathtaking precision, vivid color accuracy, and brilliant brightness. Combined with a next-gen GPU featuring hardware-accelerated ray tracing, M4 brings console-level graphics directly to your fingertips.
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
                             </p>
                             <p className="text-primary">Learn more about Apple Intelligence</p>
                         </div>
@@ -69,6 +81,7 @@ const Showcase = () => {
                     {/* Product Features */}
                     <div className="max-w-3xs space-y-14">
                         <div className="space-y-2">
+<<<<<<< HEAD
                             <p>Better</p>
                             <h3>4x faster</h3>
                             <p>pro rendering performance than M2</p>
@@ -77,6 +90,16 @@ const Showcase = () => {
                             <p>Bett</p>
                             <h3>1.5x faster</h3>
                             <p>CPU performance than M2</p>
+=======
+                            <p>Rendering Performance</p>
+                            <h3>4x faster</h3>
+                            <p>Professional rendering performance compared to M2</p>
+                        </div>
+                        <div className="space-y-2">
+                            <p>CPU Performance</p>
+                            <h3>1.5x faster</h3>
+                            <p>Advanced CPU speed for demanding applications</p>
+>>>>>>> a9677c0 (Initial commit: Apple Clone project)
                         </div>
                     </div>
                 </div>
