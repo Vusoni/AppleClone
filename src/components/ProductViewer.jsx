@@ -68,13 +68,10 @@ const ProductViewer = () => {
     const isMobile = useMediaQuery({ query: '(max-width: 1024px)'});
 
     return (
-<<<<<<< HEAD
-        <section id="productViewer">
-            <h2>Discover New Products.</h2>
-=======
+
         <section id="productViewer" >
             <h2 className="pb-40">Experience the Future of Premium Products.</h2>
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
+
 
             <div className="controls">
                 <div className="flex-center gap-5 mt-5">

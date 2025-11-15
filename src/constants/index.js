@@ -1,18 +1,10 @@
 const navLinks = [
-<<<<<<< HEAD
-    { label: "Store" },
-    { label: "Mac" },
-    { label: "iPhone" },
-    { label: "AirPods" },
-    { label: "Apple Watch" },
-    { label: "Vision" },
-=======
+
     { label: "Home" },
     { label: "Store" },
     { label: "Features" },
     { label: "Support" },
     { label: "About Us" },
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
 ];
 
 // No Change parts - Array of objects which not to apply the color
@@ -84,43 +76,6 @@ const performanceImgPositions = [
 ];
 
 const features = [
-<<<<<<< HEAD
-    {
-        id: 1,
-        icon: "/feature-icon1.svg",
-        highlight: "Email AI.",
-        text: "Summarize and draft replies to emails instantly, so you stay on top of your inbox.",
-        styles: "left-5 md:left-20 top-[20%] opacity-0 translate-y-5",
-    },
-    {
-        id: 2,
-        icon: "/feature-icon2.svg",
-        highlight: "Image AI.",
-        text: "Generate or edit images with ease. Just type what you imagine, and let AI bring it to life.",
-        styles: "right-5 md:right-20 top-[30%] opacity-0 translate-y-5",
-    },
-    {
-        id: 3,
-        icon: "/feature-icon3.svg",
-        highlight: "Summarize AI.",
-        text: "Turn long articles, reports, or notes into clear, bite-sized summaries in seconds.",
-        styles: "left-5 md:left-20 top-[50%] opacity-0 translate-y-5",
-    },
-    {
-        id: 4,
-        icon: "/feature-icon4.svg",
-        highlight: "AirDrop.",
-        text: "Wirelessly share photos, large files, and more between your iPhone, your Mac, & other devices.",
-        styles: "right-5 md:right-20 top-[70%] opacity-0 translate-y-5",
-    },
-    {
-        id: 5,
-        icon: "/feature-icon5.svg",
-        highlight: "Writing Tool.",
-        text: "Write smarter and faster, whether it’s blogs, essays, or captions, AI helps polish your words.",
-        styles: "left-5 md:left-20 top-[90%] opacity-0 translate-y-5",
-    },
-=======
   {
     id: 1,
     icon: "/feature-icon1.svg",
@@ -156,7 +111,6 @@ const features = [
     text: " Write smarter and faster—blogs, essays, or captions—AI helps you craft polished content effortlessly.",
     styles: "left-5 md:left-20 top-[90%] opacity-0 translate-y-5",
   },
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
 ];
 
 const featureSequence = [
@@ -168,19 +122,11 @@ const featureSequence = [
 ];
 
 const footerLinks = [
-<<<<<<< HEAD
-    { label: "Privacy Policy", link: "#" },
-    { label: "Terms of Use", link: "#" },
-    { label: "Sales Policy", link: "#" },
-    { label: "Legal", link: "#" },
-    { label: "Site Map", link: "#" },
-=======
     { label: "Sales Policy", link: "#" },
     { label: "Terms of Use", link: "#" },
     { label: "Privacy Policy", link: "#" },
     { label: "Navigation", link: "#" },
     { label: "Contact Us", link: "#" },
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
 ];
 
 

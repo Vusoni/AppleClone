@@ -132,11 +132,7 @@ body {
     }
 
     button {
-<<<<<<< HEAD
-      @apply relative z-10 bg-primary text-white py-2 px-6 mt-10 lg:mt-0 mb-5 rounded-full font-semibold text-lg cursor-pointer hover:bg-white hover:text-black transition-all duration-300 ease-in-out;
-=======
       @apply relative z-10 bg-white text-black py-1 px-6 mt-5 lg:mt-0 mb-5 rounded-full font-semibold text-lg cursor-pointer hover:bg-gray-300 hover:text-black transition-all duration-300 ease-in-out;
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
     }
 
     p {
@@ -329,11 +325,8 @@ body {
         }
 
         div:last-of-type {
-<<<<<<< HEAD
-          @apply bg-[#1D1D1F] p-10 rounded-3xl flex items-center gap-7;
-=======
           @apply p-10 rounded-3xl flex items-center gap-7;
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
+
 
           p {
             @apply font-semibold lg:text-2xl 2xl:text-3xl;
@@ -350,11 +343,7 @@ body {
         .apple-gradient {
           @apply p-10 rounded-3xl flex items-center gap-7 relative;
 
-<<<<<<< HEAD
-          background: #1d1d1f;
-=======
           background: #000000;
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
           background-clip: padding-box; /* !important */
           border: 3px solid transparent; /* !important */
 
@@ -394,11 +383,8 @@ body {
         }
 
         div:last-of-type {
-<<<<<<< HEAD
-          @apply h-full bg-[#1D1D1F] p-10 2xl:pt-32 lg:pt-20 rounded-3xl;
-=======
+
           @apply h-full  p-10 2xl:pt-32 lg:pt-20 rounded-3xl;
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
 
           p {
             @apply font-semibold text-4xl max-w-sm;

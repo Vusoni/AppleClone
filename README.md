@@ -32,4 +32,3 @@ Whether you are exploring responsive design, 3D product visualization, or intera
    npm install
 
    npm run dev
->>>>>>> a9677c0 (Initial commit: Apple Clone project)
