@@ -2,6 +2,10 @@ Apple Clone
 
 This project is a modern, fully responsive Apple product page clone built using React.js and Tailwind CSS, designed to replicate the sleek, interactive user experience of Apple’s official website. It demonstrates advanced frontend development skills, including responsive layouts, dynamic content rendering, animations, and integration of 3D product models.
 
+## 🚀 Demo
+Check out the live demo here:  
+[Demo Preview](https://apple-clone-vusoni.vercel.app)
+
 The layout is modern and clean, focusing on user experience and visual hierarchy, with sections such as:
 	•	Hero Section: Highlights the main product with bold typography, call-to-action buttons, and immersive visuals.
 	•	Performance Showcase: Displays product performance metrics with dynamic images and descriptive text.
